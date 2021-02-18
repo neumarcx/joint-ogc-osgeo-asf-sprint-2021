@@ -15,7 +15,7 @@ Please add your GitHub handle to the table below, so that other participants kno
 |10:00-12:30 |Practical work|
 |13:30-16:30 |Practical work|
 3+|*19th February 2021*
-|07:00-09:00 |Practical work|
+|07:00-09:00 |Practical work| @neumarcx
 |10:00-12:30 |Practical work|
 |13:30-15:30 |Practical work|
 |===
